@@ -1,0 +1,2 @@
+# Ignore large image folders during Vercel deployment
+public/images/wedding/**
